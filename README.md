@@ -3,9 +3,6 @@ Video DVD to .mp4 conversion script using ffmpeg
 
 This script assumes DVD video files called VTS_01_1.VOB et cetera to be present in directory VIDEO_TS.
 
-I thought a script like this would be rather standard and straightforward, but it took me quite some searching, time and effort to get this right.
-Hence this publish.
-
 This script supports recombining files lager than 1 GB, which are split up on the DVD.
 
 
@@ -37,3 +34,5 @@ When stopped in a controlled way, the .stop file can be removed, the script can 
 When e.g. a .trf file exists but is older then the .dil.mp4 file it should have been created from, a warning is given.
 
 
+I thought a script like this would be rather standard and straightforward, but it took me quite some searching, time and effort to get this right.
+Hence this publish.
