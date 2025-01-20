@@ -1,4 +1,5 @@
-# ffmpeg
+# dvd2mp4.sh
+
 Video DVD to .mp4 conversion script using ffmpeg
 
 This script assumes DVD video files called VTS_01_1.VOB et cetera to be present in directory VIDEO_TS.
