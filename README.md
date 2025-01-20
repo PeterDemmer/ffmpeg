@@ -34,6 +34,7 @@ When stopped in a controlled way, the .stop file can be removed, the script can 
 When e.g. a .trf file exists but is older then the .dil.mp4 file it should have been created from, a warning is given.
 
 
+
 Note:
 
 I thought a script like this would be rather standard and straightforward, but it took me quite some searching, time and effort to get this right.
