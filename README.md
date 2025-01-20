@@ -26,7 +26,7 @@ ffmpeg  -i ./VIDEO_TS/VTS_01_1.VOB  -i ./VIDEO_TS/VTS_01.stb.mp4  -filter_comple
 
 File e.g. ./VIDEO_TS/VTS_01.stb.mp4 can be used for further processing.
 
-The CRF parameter is set such, thet the mp4 files have around the same size as the original VOB file(s).
+The CRF parameter is set such, that the mp4 files have around the same size as the original VOB file(s).
 
 Logs are appended to file log/dvd2mp4.log.
 
