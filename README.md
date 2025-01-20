@@ -3,7 +3,7 @@ Video DVD to .mp4 conversion script using ffmpeg
 
 This script assumes DVD video files called VTS_01_1.VOB et cetera to be present in directory VIDEO_TS.
 
-This script supports recombining files lager than 1 GB, which are split up on the DVD.
+It supports recombining files lager than 1 GB, which are split up on the DVD.
 
 
 It performs the following actions:
